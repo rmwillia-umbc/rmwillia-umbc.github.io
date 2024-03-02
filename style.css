@@ -1,0 +1,35 @@
+body{
+		font-size: 60px;
+		text-align:center;
+	}
+	
+	.container{
+		/*background-color: darkgray;*/
+		width: 80%;
+		font-size: 30px;
+		margin: auto;
+   /*  border-radius: 30px;
+		border-style: groove; */
+	}
+	
+	.textWrapper{
+		width: 45%;
+		margin: 20px;
+		padding-top: 25vh;
+		padding-bottom: 25vh;
+	}
+	.textIntro{
+		width: 45%;
+		margin: auto;
+		padding-top: 25vh;
+		padding-bottom: 25vh;
+		font-size: 20px;
+	}
+	.stickyImage{
+		width: 39%;
+		height: 100%;
+		position: absolute;
+		font-size: 100px;
+		/*background-color: greenyellow;*/
+		padding-top: 40vh;
+	}
